@@ -15,9 +15,9 @@ disqusShortname = "Yusuke"
 
 [params]
     author = "Yusuke Yamada"
-    info = "Software Engineer"
+    info = "Programmer/Futsal Player/Researcher/Entrepreneur"
     description = "Yusuke Yamada's Engineering blog"
-    keywords = "machine learning,golang,python"
+    keywords = "machine learning,golang,python,ruby"
     avatarurl = "images/yamad.png"
 
     favicon_32 = "/img/favicon-32x32.png"
