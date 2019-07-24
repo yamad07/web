@@ -15,8 +15,8 @@ disqusShortname = "Yusuke"
 
 [params]
     author = "Yusuke Yamada"
-    info = "Programmer/Futsal Player/Researcher/Entrepreneur"
-    description = "Yusuke Yamada's Engineering blog"
+    info = "Ubiquitous Computing and Machine Learning"
+    description = "Yusuke Yamada's Web site"
     keywords = "machine learning,golang,python,ruby"
     avatarurl = "images/yamad.png"
 
@@ -43,17 +43,30 @@ disqusShortname = "Yusuke"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/yamad07/"
+[[params.social]]
+    name = "Research"
+    icon = "fas fa-brain fa-2x"
+    weight = 3
+    url = "/research"
+[[params.social]]
+    name = "Code"
+    icon = "far fa-keyboard fa-2x"
+    weight = 3
+    url = "/works"
 
 [[menu.main]]
-    name = "Intro"
+    name = "Works"
     weight = 2
-    url = "/introduction/"
-
+    url = "/works/"
+[[menu.main]]
+    name = "Research"
+    weight = 2
+    url = "/research/"
+[[menu.main]]
+    name = "LAPRAS"
+    weight = 2
+    url = "https://lapras.com/public/MX20T7E"
 [[menu.main]]
     name = "Publications"
     weight = 2
     url = "/publications/"
-[[menu.main]]
-    name = "Blogs"
-    weight = 2
-    url = "/posts/"

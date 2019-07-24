@@ -255,19 +255,19 @@ img {
 @-webkit-keyframes beeToLeft {
   0% {
     right: -1vw;
-    top: 54vh; }
+    top: 36vh; }
   25% {
     right: 23vw;
-    top: 42vh; }
+    top: 43vh; }
   50% {
     right: 45vw;
-    top: 32vh; }
+    top: 42vh; }
   75% {
     right: 67vw;
-    top: 40vh; }
+    top: 46vh; }
   100% {
     right: 101vw;
-    top: 41vh; } }
+    top: 40vh; } }
 
 .centered {
   display: flex;
